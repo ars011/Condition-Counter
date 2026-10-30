@@ -45,6 +45,6 @@ Condition Counter — расширение для Visual Studio Code, предн
 
 ## Документация
 
-- [Техническое задание](TZ.md)
-- [Архитектура](ARCHITECTURE.md)
-- [Документация проекта](DOCUMENTATION.md)
+- [Техническое задание](docs/TZ.md)
+- [Архитектура](docs/ARCHITECTURE.md)
+- [Документация проекта](docs/DOCUMENTATION.md)
